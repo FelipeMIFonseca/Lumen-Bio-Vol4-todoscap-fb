@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  <texto_geral>
+    <titulo_cap_texto>Classificação dos seres vivos </titulo_cap_texto>
+    <imagem>
+      <imagem>&lt;ID001-F001-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</imagem>
+    </imagem>
+    <legenda>Golfinho (cerca de 2 m de comprimento) e peixes (a maioria dos peixes que aparecem na foto tem cerca de 10 cm) no oceano. Apesar das semelhanças, esses animais são classificados em grupos diferentes. </legenda>
+    <credito>Andrea Izzotti/Shutterstock.com </credito>
+    <texto_geral>Existem diversas formas de classificação dos seres vivos. A classificação natural é uma delas e, diferentemente da classificação artificial, é fundamental e muito utilizada pelos cientistas, pois reflete as relações de parentesco e fornece informações a respeito da história evolutiva das espécies. O principal critério utilizado nos sistemas de classificação naturais é a semelhança morfológica e molecular. No entanto, isso é mais difícil do que parece, pois semelhanças podem ser resultado de adaptação ao mesmo ambiente, em vez de parentesco. Os golfinhos, por exemplo, têm nadadeiras, formato hidrodinâmico e vivem no meio aquático, como os peixes, mas na verdade são mamíferos. Essas semelhanças entre peixes e golfinhos não é resultado de parentesco evolutivo entre eles, mas sim de um processo conhecido como convergência adaptativa. Neste capítulo, vamos estudar como é feita a classificação dos seres vivos e quais são os critérios que devem ser utilizados para que sejam formados grupos cujos representantes apresentem relação de parentesco evolutivo entre si. </texto_geral>
+    <texto_bullets>&#8226;	Qual é a diferença entre o sistema natural e o artificial de classificação? </texto_bullets>
+    <texto_bullets>&#8226;	O que é convergência adaptativa? </texto_bullets>
+    <texto_bullets>&#8226;	Por que os vírus são excluídos dos sistemas de classificação? </texto_bullets>
+    <boxe_02_texto>
+      Neste capítulo será abordada a habilidade
+      <boxe_06_texto>EM13CNT202</boxe_06_texto>
+      .
+    </boxe_02_texto>
+    <titulo1>A classificação dos seres vivos </titulo1>
+    <texto_geral>
+      No planeta Terra há uma imensa diversidade de seres vivos, que são tradicionalmente classificados pelo ser humano. Por exemplo, os animais podem ser classificados com relação ao ambiente em que vivem: aquáticos, como golfinhos e tartarugas, ou terrestres, como elefantes e jabutis. Essa forma de classificação, entretanto, é denominada
+      <caracter_negrito>artificial</caracter_negrito>
+      , pois não revela o grau de parentesco entre esses animais.
+    </texto_geral>
+    <texto_geral>
+      O sistema de classificação que leva em conta o parentesco evolutivo entre as espécies é denominado
+      <caracter_negrito>natural</caracter_negrito>
+      . Em um sistema de classificação natural, golfinhos e elefantes são classificados no grupo de animais denominados mamíferos, enquanto tartarugas e jabutis são classificados no grupo de animais denominados quelônios.
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID004-F003-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>vkilikov/Shutterstock.com </credito>
+    <imagem>
+      <exercicios_linhas>&lt;ID095-F038-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+    </imagem>
+    <credito>Don Mammoser/Shutterstock.com </credito>
+    <legenda>Exemplos de sistemas de classificação artificial e natural. A. Golfinhos (o adulto tem cerca de 2 m de comprimento), de acordo com a classificação natural são denominados mamíferos e, segundo a classificação artificial, animais aquáticos. B. Jabuti (cerca de 50 cm de comprimento), de acordo com a classificação natural é denominado quelônio e, segundo a classificação artificial, animal terrestre. </legenda>
+    <texto_geral>
+      Taxonomia e Sistemática são as áreas dedicadas à classificação natural dos seres vivos. A área da Biologia que identifica, nomeia e classifica os seres vivos é a
+      <caracter_negrito>Taxonomia</caracter_negrito>
+      (do grego
+      <caracter_italico>taxis</caracter_italico>
+      e
+      <caracter_italico>nomos</caracter_italico>
+      , que significam, respectivamente, &#8220;arranjo&#8221; e &#8220;lei&#8221;). A
+      <caracter_negrito>Sistemática</caracter_negrito>
+      representa uma área mais ampla, pois além de incluir os estudos da Taxonomia, também estuda as relações de parentesco evolutivo (filogenia) entre as espécies.
+    </texto_geral>
+    <texto_geral>
+      O filósofo grego
+      <caracter_negrito>Aristóteles</caracter_negrito>
+      (384-322 a.C.) foi um dos pioneiros na classificação dos seres vivos. O filósofo já dividia os seres vivos em grandes grupos formados por animais e vegetais. Ele demonstrava uma visão avançada para a época ao destacar a importância da organização corporal dos seres vivos como critério para separá-los em grupos distintos. Aristóteles argumentava, por exemplo, que os golfinhos, apesar de apresentarem semelhança externa e viverem no mesmo ambiente aquático que os peixes, deveriam ser classificados no grupo atualmente conhecido como mamíferos, devido à organização interna do seu corpo, como presença de respiração pulmonar, e ao fato de seus embriões desenvolverem-se dentro do corpo materno.
+    </texto_geral>
+    <texto_geral>Aristóteles foi pioneiro ao fazer observações relevantes, do ponto de vista da Biologia, sobre os animais e a encontrar respostas adequadas, sendo considerado o pai da Zoologia (ramo da Biologia que estuda os animais). Seu discípulo Teofrasto (371-287 a.C.)descreveu cuidadosamente mais de 500 espécies de plantas, sendo considerado o pai da Botânica (ramo da Biologia que estuda as plantas). </texto_geral>
+    <texto_geral>
+      A classificação biológica moderna dos seres vivos teve início com os trabalhos de
+      <caracter_negrito>Carl von Linné </caracter_negrito>
+      (1707-1778), também conhecido como Lineu, em português, e Carolus Linnaeus, na forma latinizada. As ideias de Lineu sobre a classificação dos seres vivos foram publicadas em 1735 no livro
+      <caracter_italico>Systema naturae</caracter_italico>
+      (Sistema natural).
+    </texto_geral>
+    <texto_geral>Para Lineu, as características anatômicas eram mais adequadas para classificar os seres vivos, sendo utilizadas como critério principal em seu sistema. Lineu agrupou, por exemplo, as plantas com base em sua forma e na estrutura das flores e dos frutos. Embora a classificação de Lineu fosse artificial, o sistema hierárquico de classificação e a nomenclatura binomial, criados por ele, continuam sendo empregados, com algumas modificações, até os dias atuais. </texto_geral>
+    <titulo2>Regras de nomenclatura biológica </titulo2>
+    <texto_geral>Um dos grandes méritos de Lineu foi estabelecer um método de nomenclatura biológica dos seres vivos que é utilizado até hoje pelos taxonomistas. Esse método é importante, pois permite que cientistas de diferentes regiões, independentemente da língua, possam utilizar as mesmas regras para nomear os seres vivos. Vejamos a seguir algumas dessas regras: </texto_geral>
+    <texto_geral>
+      Os nomes científicos devem ser escritos em
+      <caracter_negrito>latim</caracter_negrito>
+      ou, se forem derivados de outras línguas, deverão ser latinizados. A justificativa é que o latim é uma língua que não sofre alterações ao longo do tempo e era a língua utilizada pelas pessoas cultas na época de Lineu. Além disso, o idioma de nenhum país é privilegiado na nomenclatura biológica. No caso da planta
+      <caracter_italico>Hevea brasiliensis</caracter_italico>
+      , conhecida popularmente como seringueira, o termo
+      <caracter_italico>brasiliensis</caracter_italico>
+      é a latinização da palavra brasileira, indicativa de que a espécie ocorre na flora do Brasil.
+    </texto_geral>
+    <texto_geral>
+      O nome científico é duplo, ou seja, composto de duas palavras. O primeiro nome refere-se ao
+      <caracter_negrito>gênero</caracter_negrito>
+      e deve ser escrito sempre com inicial maiúscula. O segundo nome refere-se ao
+      <caracter_negrito>epíteto específico</caracter_negrito>
+      , um termo que especifica a espécie e deve ser escrito sempre com inicial minúscula. No caso da espécie humana, cujo nome científico é
+      <caracter_italico>Homo sapiens</caracter_italico>
+      , que significa &#8220;humano sábio&#8221;, o termo
+      <caracter_italico>Homo</caracter_italico>
+      refere-se ao gênero, e
+      <caracter_italico>sapiens</caracter_italico>
+      , ao epíteto específico. Por atribuir dois nomes a cada espécie, o sistema de Lineu ficou conhecido como
+      <caracter_negrito>nomenclatura binomial</caracter_negrito>
+      . Veja na página seguinte alguns exemplos de nomes científicos:
+    </texto_geral>
+    <titulo4>
+      <caracter_negrito>Exemplos da nomenclatura binomial</caracter_negrito>
+    </titulo4>
+    <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="7" aid:tcols="4">
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">Nome popular</TABELA_GRAVATA1>
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">Gênero</TABELA_GRAVATA1>
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">Epíteto específico</TABELA_GRAVATA1>
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">Espécie</TABELA_GRAVATA1>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_gravata3>Arroz</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Oryza</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>sativa</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Oryza sativa</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_gravata3>Gato</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Felis</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>catus</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Felis catus</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_gravata3>Ser humano</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Homo</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>sapiens</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Homo sapiens</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_gravata3>Banana</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Musa</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>paradisiaca</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Musa paradisiaca</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_gravata3>Lobo</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Canis</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>lupus</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Canis lupus</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_gravata3>Feijão</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Phaseolus</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>vulgaris</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="56.69291338582675">
+        <tabela_texto_geral>Phaseolus vulgaris</tabela_texto_geral>
+      </tabela_texto_geral>
+    </Table>
+    <texto_geral>
+      O nome científico deve ser
+      <caracter_negrito>destacado no texto </caracter_negrito>
+      em que aparece, seja em itálico ou sublinhado. Ao ser utilizado pela primeira vez no texto, o nome científico deve ser escrito por extenso, ou seja, não pode ser abreviado. Nas demais vezes em que aparece, a parte genérica pode ser abreviada. Por exemplo, depois de ser citado no texto o nome científico
+      <caracter_italico>Homo sapiens</caracter_italico>
+      , podemos escrever
+      <caracter_italico>H. sapiens</caracter_italico>
+      nas próximas vezes em que a espécie for citada.
+    </texto_geral>
+    <texto_geral>
+      A nomenclatura de uma subespécie é
+      <caracter_negrito>trinomial</caracter_negrito>
+      , sendo necessário acrescentar um terceiro termo, que deve ser escrito com inicial minúscula ao lado do binômio da espécie. Por exemplo,
+      <caracter_italico>Canis lupus familiaris</caracter_italico>
+      é o nome científico do cão doméstico, uma subespécie de
+      <caracter_italico>Canis lupus</caracter_italico>
+      .
+    </texto_geral>
+    <texto_geral>
+      O nome do subgênero de uma espécie, quando for necessário, deve ser indicado entre parênteses e com inicial maiúscula entre o nome do gênero e do epíteto específico. Por exemplo, o mosquito que transmite a dengue é o
+      <caracter_italico>Aedes (Stegomyia) aegypti</caracter_italico>
+      , sendo
+      <caracter_italico>Aedes</caracter_italico>
+      o nome do gênero,
+      <caracter_italico>Stegomyia</caracter_italico>
+      o nome do subgênero e
+      <caracter_italico>aegypti </caracter_italico>
+      o nome do epíteto específico.
+    </texto_geral>
+    <titulo2>Categorias taxonômicas </titulo2>
+    <texto_geral>
+      No sistema de Lineu a categoria básica de classificação dos seres vivos é a
+      <caracter_negrito>espécie</caracter_negrito>
+      (
+      <caracter_italico>do </caracter_italico>
+      latim
+      <caracter_italico> species, </caracter_italico>
+      que significa
+      <caracter_italico> &#8220;</caracter_italico>
+      tipo
+      <caracter_italico>&#8221;</caracter_italico>
+      ). A categoria taxonômica, ou táxon, imediatamente superior à espécie, em termos hierárquicos, foi denominada
+      <caracter_negrito>gênero</caracter_negrito>
+      . Um gênero agrupa diferentes espécies que apresentam características comuns. Lineu agrupou gêneros semelhantes em uma mesma
+      <caracter_negrito>ordem</caracter_negrito>
+      , ordens semelhantes em uma mesma
+      <caracter_negrito>classe</caracter_negrito>
+      , e classes semelhantes em um mesmo
+      <caracter_negrito>reino</caracter_negrito>
+      .
+    </texto_geral>
+    <texto_geral>
+      Posteriormente foram criadas outras categorias taxonômicas, como
+      <caracter_negrito>família</caracter_negrito>
+      (entre gênero e ordem),
+      <caracter_negrito>filo</caracter_negrito>
+      (entre reino e classe) e
+      <caracter_negrito>domínio</caracter_negrito>
+      (acima de reino), além de outras.
+    </texto_geral>
+    <texto_geral>
+      De acordo com o Código Internacional de Nomenclatura Zoológica e o Código Internacional de Nomenclatura Botânica, existem sete categorias taxonômicas obrigatórias:
+      <caracter_negrito>reino</caracter_negrito>
+      ,
+      <caracter_negrito>filo</caracter_negrito>
+      ,
+      <caracter_negrito>classe</caracter_negrito>
+      ,
+      <caracter_negrito>ordem</caracter_negrito>
+      ,
+      <caracter_negrito>família</caracter_negrito>
+      ,
+      <caracter_negrito>gênero</caracter_negrito>
+      e
+      <caracter_negrito>espécie</caracter_negrito>
+      .
+    </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID015-I003-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Ordem decrescente das categorias taxonômicas obrigatórias. </legenda>
+    <texto_geral>
+      A nomenclatura das categorias superiores à espécie também segue certas regras. Por exemplo, o nome de uma família é determinado a partir do nome de um gênero importante que ela engloba, com o acréscimo do sufixo
+      <caracter_italico>-idae</caracter_italico>
+      , no caso da Zoologia, ou
+      <caracter_italico>-aceae</caracter_italico>
+      , no caso da Botânica. Veja os exemplos na tabela abaixo:
+    </texto_geral>
+    <titulo4>
+      <caracter_negrito>Exemplos de nomes de famílias</caracter_negrito>
+    </titulo4>
+    <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="6" aid:tcols="3">
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">Organismo</TABELA_GRAVATA1>
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">Gênero</TABELA_GRAVATA1>
+      <TABELA_GRAVATA1 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">Família</TABELA_GRAVATA1>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_gravata3>Abelha</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Apis</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Apidae</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_gravata3>Gato</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Felis</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Felidae</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_gravata3>Ser humano</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Homo</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Hominidae</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_gravata3>Orquídea</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Orchis</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Orchidaceae</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_gravata3>Pinheiro-do-brasil</tabela_gravata3>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Araucaria</tabela_texto_geral>
+      </tabela_texto_geral>
+      <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="76.53543307086615">
+        <tabela_texto_geral>Araucariaceae</tabela_texto_geral>
+      </tabela_texto_geral>
+    </Table>
+    <texto_geral>Com a aceitação das ideias evolutivas, as categorias taxonômicas passaram a ser interpretadas de uma outra maneira, para revelar o parentesco evolutivo entre os seres vivos. Dessa forma, espécies que pertencem ao mesmo gênero são filogeneticamente mais próximas (aparentadas) entre si do que espécies que pertencem a gêneros diferentes. Esse raciocínio vale para outras categorias taxonômicas, ou seja, gêneros que pertencem a uma mesma família também são mais aparentados entre si do que gêneros pertencentes a famílias diferentes. </texto_geral>
+    <imagem>
+      <exercicios_linhas>&lt;ID017 - old.png&gt;</exercicios_linhas>
+    </imagem>
+    <legenda>Categorias taxonômicas dos seres vivos e a classificação do leão.  </legenda>
+    <titulo2>Conceito de espécie </titulo2>
+    <texto_geral>Ainda não existe uma definição única e geral de espécie válida para todos os tipos de seres vivos. Muitos cientistas, inclusive, discutem se o termo espécie não seria uma criação arbitrária dos biólogos em sua tarefa de identificar e classificar os seres vivos. Outros cientistas, entretanto, defendem que o conceito é importante, mas deve ser adequado e operacional, ou seja, deve permitir o reconhecimento inequívoco de cada espécie biológica presente no planeta. </texto_geral>
+    <texto_geral>
+      Lineu utilizou pioneiramente o termo espécie para se referir a um
+      <caracter_negrito>grupo de seres vivos que possuem determinadas características morfológicas típicas, ausentes em outros grupos, semelhantes a um tipo ideal e imutáveis</caracter_negrito>
+      . Esse conceito é conhecido como
+      <caracter_negrito>conceito morfológico de espécie</caracter_negrito>
+      e leva em conta apenas aspectos físicos e morfológicos dos organismos.
+    </texto_geral>
+    <texto_geral>
+      O conceito mais utilizado de espécie na atualidade é o
+      <caracter_negrito>conceito biológico de espécie</caracter_negrito>
+      , que foi proposto, em 1942, pelo biólogo alemão naturalizado estadunidense Ernst Mayr (1904-2005). Para esse cientista, espécie representa
+      <caracter_negrito>um grupo de populações cujos organismos são capazes de se cruzar, em condições naturais, e gerar descendentes férteis, estando reprodutivamente isolados de organismos de outras espécies</caracter_negrito>
+      .
+    </texto_geral>
+    <texto_geral>
+      Com os avanços dos estudos filogenéticos nos últimos anos, surgiu o
+      <caracter_negrito>conceito filogenético de espécie</caracter_negrito>
+      , segundo o qual espécie representa
+      <caracter_negrito>uma população ou conjunto de populações definidas por uma ou mais características derivadas, constituindo o menor agrupamento taxonômico reconhecível</caracter_negrito>
+      . Essa definição, diferentemente do conceito tipológico e biológico de espécie, pode ser utilizada para todos os tipos de organismos do planeta, desde os que apresentam reprodução assexuada, como as bactérias, até para os já desaparecidos, como os fósseis.
+    </texto_geral>
+    <titulo3>Conceito de subespécie </titulo3>
+    <texto_geral>
+      Quando uma população biológica cresce e se espalha por diferentes ambientes próximos à área ocupada pela espécie, as subpopulações podem se modificar em decorrência de alterações genéticas (mutações) e de condições ambientais diferentes, adaptando-se aos novos ambientes. Por exemplo, uma população de pássaros que vivia originalmente no continente pode espalhar-se por ilhas costeiras e encontrar hábitats e recursos peculiares, desenvolvendo características adaptativas ajustadas para cada ambiente. Essas populações que diferem quanto a determinadas características são denominadas
+      <caracter_negrito>subespécies</caracter_negrito>
+      ou raças geográficas.
+    </texto_geral>
+    <texto_geral>
+      No caso do lobo,
+      <caracter_italico>Canis lupus</caracter_italico>
+      , por exemplo, os cientistas acreditam que existem 32 subespécies, sendo 24 na América do Norte e oito na Eurásia. Acredita-se que essas subespécies surgiram a partir de uma população ancestral de
+      <caracter_italico>Canis lupus</caracter_italico>
+      . As diferenças entre elas referem-se a tamanho corporal, cor da pelagem, forma do crânio, forma das orelhas e espessura dos dentes molares. Uma das espécies é o dingo,
+      <caracter_italico>Canis lupus dingo</caracter_italico>
+      , uma subespécie agressiva encontrada na Austrália; outra é o lobo eurasiático (lobo comum),
+      <caracter_italico>Canis lupus lupus</caracter_italico>
+      , encontrado na Europa e em parte da Ásia; outra é o lobo-do-ártico,
+      <caracter_italico>Canis lupus arctos</caracter_italico>
+      , encontrado nas ilhas setentrionais do Canadá; e outra é o cachorro, que em algumas classificações deixou de ser considerado uma espécie biológica,
+      <caracter_italico>Canis familiaris</caracter_italico>
+      , e passou a ser considerado uma subespécie doméstica de lobo, de nome científico
+      <caracter_italico>Canis lupus familiaris</caracter_italico>
+      .
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID020-F016-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>FiledIMAGE/iStockphoto.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID021-F017-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Thomas_Zsebok_Images/iStockphoto.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID022-F018-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Tikhomirov Sergey/Shutterstock.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID023-F019-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Peter Kunasz/Shutterstock.com </credito>
+    <legenda>
+      Diferentes subespécies de Canis lupus. A. Dingo, Canis lupus dingo, encontrado na Austrália. Tamanho médio (comprimento): 1,3 m. B. Lobo eurasiático, Canis lupus lupus, encontrado na Europa e em parte da Ásia. Tamanho médio (comprimento): 1,5 m. C. Lobo-do-ártico, Canis lupus arctos
+      <caracter_italico>, </caracter_italico>
+      encontrado nas ilhas setentrionais do Canadá. Tamanho médio (comprimento): 1,3 m. D. Cachorro, Canis lupus familiaris. Tamanho médio (comprimento) do pastor alemão: 1,3 m.
+    </legenda>
+    <titulo1>Sistemática filogenética </titulo1>
+    <texto_geral>
+      O sistema de classificação dos seres vivos mais aceito atualmente pela comunidade científica é a sistemática filogenética (do grego
+      <caracter_italico>phylon</caracter_italico>
+      e
+      <caracter_italico>genos</caracter_italico>
+      , que significam, respectivamente, &quot;tribo&quot; e &quot;origem&quot;), também conhecida como Cladística (do grego
+      <caracter_italico>klados</caracter_italico>
+      , que significa &quot;ramo&quot;), que foi proposta pelo entomologista (cientista que estuda insetos) alemão Willi Hennig (1913-1976) na década de 1950. Nesse sistema, a ancestralidade comum é o critério mais importante para classificar os organismos nas diferentes categorias taxonômicas.
+    </texto_geral>
+    <texto_geral>A proposição fundamental da sistemática filogenética é que se uma novidade evolutiva, também conhecida como caráter derivado, surgiu e se fixou em uma espécie, as espécies descendentes dela também apresentarão essa característica. Esse caráter que está presente em ancestrais anteriores à evolução do grupo é denominado caráter primitivo. A presença de vértebras nos mamíferos, por exemplo, é um caráter primitivo, pois está presente no ancestral de todos os vertebrados. Já a presença de glândulas mamárias é um caráter derivado nos mamíferos, pois ocorre apenas nos animais desse grupo e em nenhum outro tipo de vertebrado. </texto_geral>
+    <texto_geral>Na sistemática filogenética são utilizados diversos tipos de caracteres &#8211; anatômicos, fisiológicos, comportamentais e bioquímicos &#8211; para analisar as relações evolutivas entre os seres vivos.  </texto_geral>
+    <texto_geral>
+      A escolha dos caracteres para determinação do parentesco entre espécies deve ser criteriosa, pois só devem ser utilizados caracteres ou
+      <caracter_negrito>estruturas homólogas</caracter_negrito>
+      . Estruturas homólogas são herdadas de um ancestral comum ao grupo estudado e têm a mesma origem embrionária, ou seja, progridem da mesma maneira durante o desenvolvimento embrionário. Apesar de apresentarem a mesma origem embrionária, as estruturas homólogas podem expressar funções bem distintas, como no caso dos membros anteriores dos mamíferos.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID026-I006-2020-EM-BIO-2-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>Estruturas homólogas nos mamíferos. Note que os membros anteriores desses animais são constituídos pelos mesmos ossos, indício de proximidade evolutiva entre eles. </legenda>
+    <texto_geral>
+      A semelhança entre órgãos homólogos é explicada pela ancestralidade comum, mas as diferentes funções exercidas por eles são explicadas pelo processo conhecido como
+      <caracter_negrito>irradiação adaptativa</caracter_negrito>
+      ou
+      <caracter_negrito>divergência adaptativa</caracter_negrito>
+      . Nesse processo ocorre a diversificação de órgãos homólogos decorrente da adaptação a modos de vida e ambientes diferentes. Uma divergência adaptativa ocorre quando uma população coloniza diversos hábitats e se adapta às diferentes condições ecológicas desses ambientes.
+    </texto_geral>
+    <texto_geral>
+      As
+      <caracter_negrito>estruturas análogas</caracter_negrito>
+      não podem ser utilizadas como caracteres nos cladogramas, pois não revelam parentesco evolutivo entre os organismos. As estruturas análogas têm a mesma função, mas diferentes origens evolutivas, e aparecem em diferentes grupos de organismos como resultado das adaptações a modos de vida semelhantes. Um exemplo é a nadadeira dos golfinhos e a dos tubarões.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID027-I007-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>Exemplo de estruturas análogas. A nadadeira de golfinhos e a de tubarões têm a mesma função, porém apresentam diferenças quanto à estrutura interna e à origem evolutiva. </legenda>
+    <texto_geral>
+      O processo responsável pelo surgimento de estruturas análogas é conhecido como
+      <caracter_negrito>convergência adaptativa</caracter_negrito>
+      ou evolução convergente. Nesse processo, organismos não aparentados apresentam semelhanças externas, morfológicas ou comportamentais resultantes de uma mesma pressão seletiva exercida pelo ambiente onde vivem. Embora as analogias não sejam utilizadas na determinação do parentesco evolutivo, seu estudo é importante porque revela a adaptação dos seres vivos aos diferentes ambientes.
+    </texto_geral>
+    <imagem>
+      <boxe_17>
+        <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+        <boxe_17_titulo1>
+          <boxe_02_texto></boxe_02_texto>
+          A
+          <caracter_negrito>embriologia comparada</caracter_negrito>
+          &#8211; estudo
+        </boxe_17_titulo1>
+        <boxe_17_texto></boxe_17_texto>
+        <boxe_17_texto>
+          <boxe_02_texto>
+            comparado do desenvolvimento embrionário &#8211; é uma f
+            <boxe_17_texto>
+              erramenta muito utilizada na sistemática filogenética. Semelhanças durante o desenvolvimento embrionário geralmente são fortes evidências de
+              <caracter_negrito>parentesco evolutivo</caracter_negrito>
+              , ou seja, quanto maior a semelhança entre os
+            </boxe_17_texto>
+            embriões, maior o parentesco.
+          </boxe_02_texto>
+        </boxe_17_texto>
+      </boxe_17>
+    </imagem>
+    <texto_geral>
+      Os dados obtidos em estudos de Cladística são úteis para entender as relações filogenéticas entre os organismos estudados. Com essa metodologia, os biólogos inserem as espécies em grupos denominados
+      <caracter_negrito>clados</caracter_negrito>
+      , nos quais são incluídos uma espécie ancestral e todos os descendentes.
+    </texto_geral>
+    <texto_geral>
+      A representação esquemática da relação de parentesco evolutivo entre os organismos estudados é feita por meio de árvores filogenéticas, sendo a mais comum o diagrama com ramos denominado
+      <caracter_negrito>cladograma</caracter_negrito>
+      . Nele, a base é denominada
+      <caracter_negrito>raiz</caracter_negrito>
+      , e os pontos de onde partem dois
+      <caracter_negrito>ramos</caracter_negrito>
+      (bifurcações) são denominados
+      <caracter_negrito>nós</caracter_negrito>
+      ou nódulos. Cada nó representa um ancestral comum hipotético para todos os ramos que estiverem acima dele. Os grupos que descendem desse ancestral são colocados nos ápices dos ramos e compõem os terminais.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID028-I008-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>Representação esquemática genérica de um cladograma.  </legenda>
+    <texto_geral>
+      Em todos os cladogramas os nós representam eventos de
+      <caracter_negrito>cladogênese</caracter_negrito>
+      (do grego
+      <caracter_italico>klados</caracter_italico>
+      e
+      <caracter_italico>genos</caracter_italico>
+      , que significam, respectivamente, &#8220;ramos&#8221; e &#8220;origem&#8221;), fenômeno em que uma espécie dá origem a duas linhagens. O acúmulo de diferenças em uma população ao longo do tempo, que origina uma nova espécie, é denominado
+      <caracter_negrito>anagênese</caracter_negrito>
+      (do grego
+      <caracter_italico>ana</caracter_italico>
+      e
+      <caracter_italico>genos</caracter_italico>
+      , que significam, respectivamente, &#8220;para cima&#8221; e &#8220;origem&#8221;).
+    </texto_geral>
+    <texto_geral>
+      No cladograma, um grupo
+      <caracter_negrito>monofilético</caracter_negrito>
+      (do grego
+      <caracter_italico>mono</caracter_italico>
+      e
+      <caracter_italico>phylon</caracter_italico>
+      , que significam, respectivamente, &#8220;um&#8221; e &#8220;tribo&#8221;) é aquele baseado em homologias derivadas, ou seja, novidades evolutivas. Um grupo monofilético inclui o ancestral comum e todos os descendentes. Em outras palavras, é um grupo completo de espécies aparentadas ou um ramo da árvore da vida.
+    </texto_geral>
+    <texto_geral>
+      Um grupo
+      <caracter_negrito>parafilético</caracter_negrito>
+      (do grego
+      <caracter_italico>para</caracter_italico>
+      e
+      <caracter_italico>phylon</caracter_italico>
+      , que significam, respectivamente, &#8220;ao lado&#8221; e &#8220;tribo&#8221;) tem como base homologias ancestrais, portanto não inclui todos os descendentes do ancestral comum entre os organismos do grupo. Um exemplo é o grupo dos répteis, pois é baseado em características ancestrais dos amniotas.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID036-I009-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>Representação esquemática genérica de um cladograma com grupos parafilético, polifilético e monofilético. </legenda>
+    <texto_geral>
+      Já um grupo
+      <caracter_negrito>polifilético</caracter_negrito>
+      (do grego
+      <caracter_italico> polys</caracter_italico>
+      e
+      <caracter_italico>phylon</caracter_italico>
+      , que significam, respectivamente, &#8220;muito&#8221; e &#8220;tribo&#8221;) é baseado em características não homólogas, portanto inclui organismos descendentes de ancestrais independentes, sem ancestral comum entre os organismos do grupo. É o caso dos protistas.
+    </texto_geral>
+    <texto_geral>Os taxonomistas concordam que grupos parafiléticos e polifiléticos são inapropriados como unidades taxonômicas, porém em vários casos eles ainda aparecem nas árvores filogenéticas, pois alguns organismos não foram analisados filogeneticamente. À medida que erros nas classificações antigas são detectados, os grupos parafiléticos e polifiléticos são eliminados e a nomenclatura taxonômica é revisada. </texto_geral>
+    <secao_01>
+      <secao_01>
+        <secao_01_titulo1>Questão resolvida</secao_01_titulo1>
+        <exercicio_enunciado>
+          1
+          <caracter_negrito>PUC-SP 2017</caracter_negrito>
+          A diversificação evolutiva é um fenômeno biológico que se encontra refletido na composição molecular dos organismos atuais. A hemoglobina, por exemplo, é uma das moléculas cujas diferenças na composição de aminoácidos são utilizadas para se deduzir relações evolutivas entre espécies. Considere as espécies animais A, B, C, D e E, cujas moléculas de hemoglobina possuam diferenças na composição de aminoácidos. Em relação à hemoglobina da espécie A, as hemoglobinas das espécies B, C, D e E possuem 45, 8, 67 e 32 aminoácidos diferentes, respectivamente.
+        </exercicio_enunciado>
+        <texto_geral_exercicio>Sendo assim, assinale o diagrama que melhor representa as relações evolutivas entre essas espécies.  </texto_geral_exercicio>
+        <texto_geral_exercicio></texto_geral_exercicio>
+        <item_lista>
+          <exercicio_itens>
+            <caracter_negrito>a)	</caracter_negrito>
+          </exercicio_itens>
+          <imagem>
+            <Story>
+              <exercicios_linhas>&lt;PUC_SP_2017_1.png&gt;</exercicios_linhas>
+            </Story>
+            <exercicio_itens>
+              <caracter_negrito>b)	</caracter_negrito>
+              <Story>
+                <exercicios_linhas>&lt;PUC_SP_2017_1.png&gt;</exercicios_linhas>
+              </Story>
+            </exercicio_itens>
+            <exercicio_itens>
+              <caracter_negrito>c)	</caracter_negrito>
+              <Story>
+                <exercicios_linhas>&lt;PUC_SP_2017_1.png&gt;</exercicios_linhas>
+              </Story>
+            </exercicio_itens>
+            <caracter_negrito>d)	</caracter_negrito>
+            <Story>
+              <exercicios_linhas>&lt;PUC_SP_2017_1.png&gt;</exercicios_linhas>
+            </Story>
+          </imagem>
+        </item_lista>
+        <exercicio_itens></exercicio_itens>
+        <titulo3>
+          Resolução:
+          <caracter_negrito></caracter_negrito>
+        </titulo3>
+        <exercicio_resolvido>Alternativa: B </exercicio_resolvido>
+        <exercicio_resolvido>Um cladograma pode ser construído com base em diversos tipos de caracteres, dentre eles os bioquímicos. A sequência, o número e os tipos de aminoácidos que formam uma determinada proteína podem ser utilizados para analisar a relação de parentesco entre diferentes espécies de seres vivos. Quanto maior for a semelhança bioquímica entre as espécies, maior será a proximidade filogenética entre elas. Ao comparar a proteína hemoglobina da espécie A com as hemoglobinas das outras espécies (B, C, D e E), observa-se que a espécie filogeneticamente mais próxima da espécie A é a espécie C, pois existem apenas 8 aminoácidos diferentes entre elas. Logo após, vem a espécie E, com 32 aminoácidos diferentes; depois a espécie B, com 45 aminoácidos diferentes; e finalmente a espécie filogeneticamente mais distante da espécie A é a espécie D, pois existem 67 aminoácidos diferentes entre</exercicio_resolvido>
+      </secao_01>
+    </secao_01>
+    <secao_01>Classificação dos seres vivos após Lineu </secao_01>
+    <texto_geral>
+      A classificação científica apresentada por Lineu, em 1735, considerava os seres vivos divididos em dois reinos:
+      <caracter_negrito>reino Animal</caracter_negrito>
+      e
+      <caracter_negrito>reino Vegetal</caracter_negrito>
+      .
+    </texto_geral>
+    <texto_geral>Lineu incluiu no reino Vegetal todos os organismos fotossintetizantes procariontes, como as cianobactérias, e eucariontes, como plantas e algas, e também as bactérias heterótrofas e os fungos, considerados plantas aclorofiladas. No reino Animal estavam incluídos os organismos heterotróficos que apresentam movimento e que capturam e ingerem alimento. Esse grupo incluía os protozoários, considerados animais unicelulares, e os metazoários, agrupados em animais multicelulares. </texto_geral>
+    <texto_geral>Uma das limitações do sistema de dois reinos de Lineu refere-se aos organismos considerados intermediários entre plantas e animais.  </texto_geral>
+    <texto_geral>O exemplo mais importante é o das euglenas, organismos unicelulares eucariontes fotossintetizantes que se deslocam ativamente no ambiente. Na época de Lineu, a fotossíntese era considerada exclusiva das plantas, e a locomoção, exclusiva dos animais. Dessa forma, as euglenas eram consideradas plantas, pelos botânicos, e animais, pelos zoólogos. </texto_geral>
+    <texto_geral>
+      Ernst Haeckel (1834-1919), um grande defensor das ideias de Darwin, foi um dos primeiros cientistas que propuseram a criação de mais um reino de seres vivos, o que quebrou a dicotomia animal
+      <caracter_italico>versus</caracter_italico>
+      vegetal existente nos sistemas vigentes até então. Ele propôs, em 1866, um terceiro reino de seres vivos, o reino Protista, e apresentou as relações evolutivas entres os seres vivos por meio de uma árvore da vida, construída a partir da visão darwiniana da evolução das espécies.
+    </texto_geral>
+    <texto_geral>O reino Protista, proposto por Haeckel, era composto de algas unicelulares, protozoários, esponjas-do-mar, mixomicetos e todas as bactérias, incluídas em um grupo denominado Monera. Em seu sistema de classificação de três reinos, as algas pluricelulares e os fungos eram agrupados no reino Vegetal. </texto_geral>
+    <texto_geral>Esse sistema de três reinos de Haeckel revelou falhas quando as diferenças entre células procarióticas e eucarióticas se tornaram mais conhecidas, com o desenvolvimento da Biologia e do microscópio eletrônico no início do século XX. Além disso, a classificação das esponjas-do-mar no reino Protista tornou-se inaceitável, uma vez que esses organismos compartilham diversas características com os animais. </texto_geral>
+    <texto_geral>
+      Em 1937, o biólogo francês Édouard Chatton (1883-1947) chamou a atenção dos cientistas para o fato de as bactérias apresentarem células procarióticas, ou seja, sem núcleo e sem organelas membranosas. Essa característica tornava as bactérias diferentes de todos os demais seres vivos com células eucarióticas, o que levou diversos biólogos a propor a inclusão das bactérias em um reino exclusivo, o
+      <caracter_negrito>reino Monera</caracter_negrito>
+      (nome utilizado por Ernst Haeckel para se referir às bactérias, classificadas por ele no reino Protista).
+    </texto_geral>
+    <texto_geral>
+      Em 1938, e depois em 1956, o biólogo estadunidense Herbert Faulkner Copeland (1902-1968) sugeriu a divisão dos seres vivos em quatro reinos: Animalia (animais), Metaphyta (plantas), Protista (protozoários, algas e fungos) e Monera (bactérias). Nesse sistema, Copeland procurou valorizar as diferenças entre procariontes e eucariontes, além da existência ou não de tecidos na organização do corpo. Diferentemente de Haeckel, Copeland inseriu os poríferos no reino Animal e retirou os fungos do reino Vegetal, colocando-os no
+      <caracter_negrito>reino Protista</caracter_negrito>
+      .
+    </texto_geral>
+    <texto_geral>Um dos principais problemas desse sistema é o reino Protista, que mais parece um grupo formado apenas para incluir todos os seres vivos que foram excluídos dos reinos Monera, Metaphyta e Animalia. Dessa forma, o reino Protista é formado por organismos muito diferentes entre si, como fungos, algas e protozoários, o que faz com que perca a unidade e a clareza dos critérios de classificação. </texto_geral>
+    <texto_geral>
+      <imagem>
+        <exercicios_linhas>&lt;ID041-I010-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </texto_geral>
+    <legenda>Representação esquemática de uma euglena. </legenda>
+    <titulo2>Classificação dos cincos reinos </titulo2>
+    <texto_geral>
+      Diante dos problemas observados na classificação dos seres vivos em quatro reinos, especialmente com o reino Protista, o biólogo estadunidense Robert Harding Whittaker (1920-1980) propôs, em 1959, que os seres vivos deveriam ser divididos em cinco reinos, colocando os fungos em um reino separado dos demais seres vivos, denominado
+      <caracter_negrito>reino Fungi</caracter_negrito>
+      . Em 1969, Whittaker apresentou uma versão mais completa e detalhada da classificação dos seres vivos nos seguintes reinos: Monera, Protista, Plantae, Animalia e Fungi.
+    </texto_geral>
+    <texto_geral>Nessa classificação de cinco reinos, Whittaker considerou os seguintes níveis de organização corporal: unicelular procarionte (reino Monera), unicelular eucarionte (reino Protista) e pluricelular ou multinucleado eucarionte (reinos Plantae, Animalia e Fungi). Além disso, o cientista considerou três tipos de nutrição nos organismos pluricelulares ou multinucleados, que seriam responsáveis pela divisão desses organismos em três reinos: reino Fungi, em que a nutrição ocorre por absorção de nutrientes; reino Plantae, em que a nutrição ocorre por fotossíntese; e reino Animal, em que a nutrição ocorre por ingestão de nutrientes. </texto_geral>
+    <texto_geral>
+      <imagem>
+        <exercicios_linhas>&lt;ID046-I011-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </texto_geral>
+    <legenda>Representação esquemática adaptada da classificação dos seres vivos em cinco reinos. </legenda>
+    <texto_geral>O próprio cientista Whittaker comentou algumas dificuldades de sua proposta de divisão dos seres vivos em cinco reinos. Uma delas é a distinção entre unicelulares e pluricelulares, pois as clorofíceas (algas verdes), por exemplo, podem ser unicelulares ou pluricelulares, o que fez o cientista separar os dois grupos de algas clorofíceas em reinos diferentes: as unicelulares ficaram no reino Protista e as pluricelulares no reino Plantae. Além disso, Whittaker afirma que o reino Protista é polifilético, e não monofilético, pois é formado por um complexo grupo de seres vivos que têm diferentes origens evolutivas. Mesmo com todas essas deficiências, o sistema de cinco reinos foi o mais utilizado por diversos anos. </texto_geral>
+    <texto_geral>
+      Em 1982, as biólogas estadunidenses Lynn Margulis (1938-2011) e Karlene Schwartz (1936-) publicaram o livro
+      <caracter_italico>Cinco reinos</caracter_italico>
+      , no qual reconheceram e modificaram o sistema de cinco reinos proposto por Whittaker e definiram melhor os limites do reino Protista. Para as biólogas, todas as algas, independentemente do tamanho e número de células, deveriam ser incluídas no reino Protista.
+    </texto_geral>
+    <texto_geral>A seguir serão apresentadas as principais características presentes na maioria dos representantes de cada um dos cinco reinos de seres vivos. </texto_geral>
+    <texto_geral>
+      <caracter_negrito>Reino Monera</caracter_negrito>
+      (do grego
+      <caracter_italico>moneres</caracter_italico>
+      , que significa &#8220;único&#8221;): formado por organismos que apresentam células procarióticas, ou seja, que não têm núcleo organizado nem organelas membranosas, como mitocôndrias e cloroplastos. Esse grupo inclui bactérias, como as cianobactérias, e as arqueas. Muitos organismos são heterótrofos, outros são autótrofos (quimiossintetizantes ou fotossintetizantes) e alguns são mixotróficos. Praticamente todos os organismos desse reino apresentam parede celular, com peptideoglicanos nas bactérias e sem peptideoglicanos nas arqueas. Atualmente sabemos que esse grupo é possivelmente parafilético, pois as arqueas são mais próximas dos eucariotos que das bactérias.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID048-F026-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Kateryna Kon/Shutterstock.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID049-F027-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Elif Bayraktar/Shutterstock.com </credito>
+    <legenda>
+      Exemplos de organismos do reino Monera. A. Bactéria do gênero Clostridium
+      <caracter_italico>.</caracter_italico>
+      Tamanho: d
+      <caracter_italico>e </caracter_italico>
+      1,5 a 20 μm de comprimento; B. Cianobactéria do gênero Spirulina. Tamanho: 1 mm de comprimento.
+    </legenda>
+    <texto_geral>
+      <caracter_negrito>Reino Protista</caracter_negrito>
+      (do grego
+      <caracter_italico>protistos</caracter_italico>
+      , que significa &#8220;primeiro de todos&#8221;): formado por organismos eucariontes, ou seja, que apresentam núcleo organizado e organelas membranosas nas células, com ou sem parede celular, com ou sem cloroplastos, unicelulares ou pluricelulares, autótrofos, heterótrofos ou mixotróficos e sem tecidos diferenciados. Nesse grupo estão incluídos os protozoários, as algas (uni e pluricelulares) e os mixomicetos (organismos que pertenciam anteriormente ao reino Fungi).
+    </texto_geral>
+    <texto_geral>
+      Avanços na sistemática de eucariotos levaram o
+      <caracter_negrito>reino Protista</caracter_negrito>
+      a sucumbir, pois ele certamente é um
+      <caracter_negrito>grupo polifilético</caracter_negrito>
+      . Alguns grupos de protistas são mais relacionados aos animais, fungos ou plantas do que a outros protistas. Dessa forma, várias linhagens de protistas atualmente são reconhecidas como reinos.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;LUMEN_2021_2S_L1_BIO_FB_U1_CAP1_F001 SH 261076376.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Lebendkulturen.de/Shutterstock.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID051-F029-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Fernando Sanchez Cortes/Shutterstock.com </credito>
+    <legenda>
+      Exemplos de organismos do reino Protista. A. Protozoário de água doce (Amoeba proteus
+      <caracter_italico>)</caracter_italico>
+      . Tamanho médio: 0,2 mm de diâmetro; B. Alga vermelha marinha (Gigartina pistillata). Tamanho médio: 20 cm de altura.
+    </legenda>
+    <texto_geral>
+      <caracter_negrito>Reino Plantae:</caracter_negrito>
+      formado por organismos eucariontes, com parede celular de celulose, pluricelulares, autótrofos fotossintetizantes (presença de cloroplastos) e com tecidos diferenciados. A meiose é espórica &#8211; ou seja, produz esporos &#8211;, e os organismos apresentam alternância de gerações haploide (gametófito) e diploide (esporófito). Nesse grupo estão incluídas todas as plantas, como musgos, samambaias, pinheiros e angiospermas (plantas com frutos). Uma característica exclusiva desse grupo é a presença de embriões protegidos e nutridos por tecido materno, característica ausente em algas, que, dessa forma, não foram incluídas nesse grupo.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID052-F030-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>
+      Exemplos de organismos do reino Plantae. A. Musgo do gênero Polytrichum.
+      <caracter_italico></caracter_italico>
+      Tamanho médio: 20 cm de altura.
+    </legenda>
+    <credito>Anest/Shutterstock.com </credito>
+    <texto_geral>
+      <caracter_negrito>Reino Fungi:</caracter_negrito>
+      formado por organismos eucariontes, com parede celular de quitina, unicelulares ou pluricelulares, haploides e heterótrofos por absorção (sem cloroplastos). Os pluricelulares são formados por filamentos denominados hifas, que não constituem tecidos verdadeiros. Ocorre meiose zigótica para formar propágulos resistentes, denominados esporos. Nesse grupo estão incluídos os mofos, as leveduras, os cogumelos e as orelhas-de-pau.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID054-F032-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Irina Vinnikova/Shutterstock.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID055-F033-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Peangdao/Shutterstock.com </credito>
+    <legenda>Exemplos de organismos do reino Fungi. A. Cogumelos da espécie Amanita muscaria. Tamanho médio: chapéu com 10 cm de diâmetro; B. Orelhas-de-pau crescendo no tronco de uma árvore. Tamanho médio (comprimento): 10 cm. </legenda>
+    <texto_geral>
+      <caracter_negrito>Reino Animalia:</caracter_negrito>
+      formado por organismos eucariontes, sem parede celular, pluricelulares, diploides, heterótrofos por ingestão (ingerem moléculas orgânicas presentes em outros seres vivos) e com tecidos diferenciados. Nesse grupo estão incluídos todos os animais, desde os mais simples, como as esponjas, até os mais complexos, como os vertebrados (peixes, répteis e mamíferos). Uma característica exclusiva dos animais é a presença da fase embrionária denominada blástula, uma esfera celular preenchida por líquido e revestida pela blastoderme.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID056-F034-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>bayazed/Shutterstock.com </credito>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID057-F035-2020-EM-BIO-2-L3-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <credito>Alizada Studios/Shutterstock.com </credito>
+    <legenda>Exemplos de organismos do reino Animalia. A. Colônia de esponjas-do-mar (Callyspongia siphonella, animais do grupo dos poríferos). Tamanho médio: 60 cm de altura; B. Coalas (mãe e filhote), animais do grupo dos mamíferos marsupiais. Tamanho médio: 70 cm de altura (adulto). </legenda>
+    <titulo2>Classificação dos três domínios </titulo2>
+    <texto_geral>
+      A partir da década de 1970, foram analisados os genes responsáveis pela produção de RNA ribossômico (RNAr), um tipo de RNA presente em todos os seres vivos. Com base nesses estudos, Carl Richard Woese (1928-2012) e colaboradores propuseram, em 1977, a separação das bactérias em dois grupos distintos: o das arqueobactérias (do grego
+      <caracter_italico>arkhe</caracter_italico>
+      , que significa &#8220;primitivo&#8221;) e o das eubactérias (do grego
+      <caracter_italico>eu</caracter_italico>
+      , que significa &#8220;verdadeiro&#8221;). Dessa forma, Woese e colaboradores dividiram os seres vivos em seis reinos: Eubacteria, Archaebacteria, Protista, Fungi, Animalia e Plantae.
+    </texto_geral>
+    <texto_geral>
+      Em 1990, Woese e colaboradores, com base em novos estudos moleculares, propuseram formalmente uma categoria taxonômica superior a reino e dividiram os seres vivos em
+      <caracter_negrito>três domínios:</caracter_negrito>
+      Bacteria, Archaea e Eukarya. Nessa nova proposta, o termo arqueobactérias foi substituído por arqueas, e o termo eubactérias por bactérias, pois esses procariontes são muito diferentes entre si em relação à estrutura, bioquímica e fisiologia. No domínio Eukarya estão incluídos os reinos nos quais se distribuem protozoários, algas, plantas, fungos e animais.
+    </texto_geral>
+    <imagem>
+      <imagem>
+        <exercicios_linhas>&lt;ID059-I012-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </imagem>
+    <legenda>Representação esquemática adaptada da classificação dos seres vivos em três domínios: Bacteria, Archaea e Eukarya. </legenda>
+    <boxe_17>
+      <boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+      <boxe_17_texto>
+        <boxe_17_texto>
+          <boxe_02_texto>
+            Os
+            <caracter_negrito>vírus</caracter_negrito>
+            não foram incluídos em nenhum sistema de classificação vigente, pois são acelulares e não apresentam metabolismo próprio, características fundamentais para a organização dos seres vivos nos diferentes grupos.
+          </boxe_02_texto>
+        </boxe_17_texto>
+      </boxe_17_texto>
+    </boxe_17>
+    <texto_geral>Uma conclusão importante da proposta de três domínios está no fato de que as arqueas estão mais intimamente relacionadas aos eucariontes, pois têm um ancestral comum mais recente com esse grupo, do que com as bactérias, cujo ancestral comum é mais antigo. Novos estudos têm sido realizados e têm fortalecido cada vez mais a proposta de divisão dos seres vivos em três domínios. </texto_geral>
+    <boxe_20>
+      <secao_15_titulo1>Aplicando conhecimentos</secao_15_titulo1>
+      <exercicio_enunciado>
+        <exercicio_enunciado>
+          <boxe_20_texto>
+            <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+            <boxe_20_texto>Cite três regras de nomenclatura biológica.</boxe_20_texto>
+          </boxe_20_texto>
+          <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+          De acordo com o Código Internacional de Nomenclatura Zoológica e o Código Internacional de Nomenclatura Botânica, existem sete categorias taxonômicas obrigatórias. Cite, em ordem crescente, quais são essas categorias.
+          <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+          Qual é o conceito biológico de espécie?
+          <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+          A figura abaixo representa uma proposta de classificação dos seres vivos.
+        </exercicio_enunciado>
+      </exercicio_enunciado>
+      <imagem>
+        <exercicios_linhas>&lt;ID062-I013-2020-EM-BIO-2S-L1-FB-U1-C1.png&gt;</exercicios_linhas>
+      </imagem>
+    </boxe_20>
+    <secao_03>
+      <secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+        <exercicio_enunciado>UEL 2020</exercicio_enunciado>
+        As primeiras tentativas de classificar os organismos com base em suas similaridades estruturais começaram na Grécia Antiga e lançaram as bases da sistemática atual.
+      </exercicio_enunciado>
+      <secao_exercicio>Sobre a classificação biológica e as categorias taxonômicas, assinale a alternativa correta. </secao_exercicio>
+      <item_lista>
+        <caracter_negrito>a)	</caracter_negrito>
+        <item_lista></item_lista>
+        <item_lista>Entre os estudiosos da classificação natural, Aristóteles sugeriu que o nome científico de todo animal deveria ser composto de duas palavras.</item_lista>
+      </item_lista>
+      <item_lista>
+        <caracter_negrito>b)	</caracter_negrito>
+        <item_lista></item_lista>
+        <item_lista>
+          Uma característica derivada, compartilhada por dois ou mais táxons e por seu ancestral comum mais recente, é denominada
+          <caracter_italico>plesiomorfia</caracter_italico>
+          .
+        </item_lista>
+      </item_lista>
+      <item_lista></item_lista>
+      <item_lista>
+        <caracter_negrito>d)	</caracter_negrito>
+        <item_lista></item_lista>
+        <item_lista>O primeiro a desenvolver um método de classificação das espécies baseado na ancestralidade evolutiva foi o naturalista sueco Carl Linné.</item_lista>
+      </item_lista>
+      <item_lista>
+        <caracter_negrito>e)	</caracter_negrito>
+        <caracter_italico></caracter_italico>
+        <item_lista></item_lista>
+        <item_lista>
+          Anisocerus scopifern e
+          <caracter_italico>Onychocerus</caracter_italico>
+          scopifer são duas espécies que pertencem à mesma categoria taxonômica de gênero.
+        </item_lista>
+      </item_lista>
+      <exercicio_enunciado>
+        <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+        <caracter_negrito>UFPR 2020</caracter_negrito>
+        Os sistemas de classificação dos seres vivos mudaram ao longo do tempo. Partindo de uma situação em que os seres vivos eram imutáveis, como pensava Lineu, para outra em que se percebem as alterações ao longo do tempo, o conceito de espécie foi sendo alterado. Os critérios utilizados nos sistemas de classificação, em ordem cronológica, são:
+      </exercicio_enunciado>
+      <secao_exercicio_item></secao_exercicio_item>
+      <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+      <caracter_negrito>UEPG-PR 2020</caracter_negrito>
+      Os biólogos agrupam os seres vivos de acordo com as regras de nomenclatura e classificação, utilizando-se dos critérios taxonômicos e filogenéticos. Entre os estudiosos da classificação, destaca-se Karl Von Linné (1707-1778), também conhecido como Lineu. Suas ideias sobre classificação biológica foram publicadas no livro
+      <caracter_italico>Systema Naturae</caracter_italico>
+      . Considerando os aspectos de Taxonomia e Sistemática, assinale o que for correto.
+      <exercicio_item_texto>
+        <caracter_negrito>01</caracter_negrito>
+        <caracter_negrito>.</caracter_negrito>
+        Lineu ponderava que critérios de semelhança entre os organismos devem ser o ponto de partida de todas as classificações. Dessa forma, espécies de um mesmo gênero são mais aparentadas entre si do que com espécies de outros gêneros.
+      </exercicio_item_texto>
+      <exercicio_item_texto>
+        <caracter_negrito>02</caracter_negrito>
+        <caracter_negrito>.</caracter_negrito>
+        O sistema de nomenclatura de espécies criado por Lineu ficou conhecido por nomenclatura binomial. Este sistema é utilizado até os dias de hoje e, segundo as regras internacionais de nomenclatura, a primeira palavra deve indicar o gênero (escrita com inicial maiúscula) e a segunda, o epíteto específico (com inicial minúscula). Ambas devem ser escritas em itálico ou sublinhado, por exemplo, Homo sapiens.
+      </exercicio_item_texto>
+      <exercicio_item_texto>
+        <caracter_negrito>04</caracter_negrito>
+        <caracter_negrito>.</caracter_negrito>
+        No sistema atual de classificação, não são consideradas válidas as seguintes categorias taxonômicas: Classe e Ordem.
+      </exercicio_item_texto>
+      <exercicio_item_texto>
+        <caracter_negrito>08</caracter_negrito>
+        <caracter_negrito>.</caracter_negrito>
+        De acordo com as regras internacionais de nomenclatura, o nome das famílias dos animais recebe o sufixo &#8220;idae&#8221; como, por exemplo,
+        <caracter_italico>Felidae</caracter_italico>
+        . Já para as plantas, para a designação de famílias, utiliza-se, em geral, a terminação &#8220;aceae&#8221; como, por exemplo,
+        <caracter_italico>Rosaceae</caracter_italico>
+        .
+      </exercicio_item_texto>
+      <texto_geral>
+        <caracter_negrito>Soma:</caracter_negrito>
+      </texto_geral>
+      <secao_exercicio_numerador>4	</secao_exercicio_numerador>
+      <caracter_negrito>Uece 2019</caracter_negrito>
+      <exercicio_enunciado>Estima-se que até 100 milhões de diferentes espécies vivas dividem este mundo com você. Toda essa diversidade é classificada em categorias taxonômicas hierárquicas. Assinale a opção que corresponde às principais categorias taxonômicas em ordem decrescente de hierarquia. </exercicio_enunciado>
+      <secao_exercicio_item></secao_exercicio_item>
+      <secao_exercicio_numerador>5	</secao_exercicio_numerador>
+      <caracter_negrito></caracter_negrito>
+      <exercicio_enunciado>Unicamp-SP 2017 O cladograma abaixo representa relações evolutivas entre membros da Superfamília Hominoidea, onde se observa que</exercicio_enunciado>
+      <imagem>
+        <exercicios_linhas>&lt;Unicamp-SP_2017_01.png&gt;</exercicios_linhas>
+      </imagem>
+    </secao_03>
+  </texto_geral>
+</Root>
